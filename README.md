@@ -147,6 +147,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - _Danish_ - [viktorstrate](https://github.com/viktorstrate)
 - _Slovenian_ - [KrOstir](https://github.com/KrOstir)
 - _Lithuanian_ - [Combinacijus](https://github.com/Combinacijus)
+- _Latin_ - [nlbuescher](https://github.com/nlbuescher)
 
 -->
 
@@ -176,4 +177,5 @@ cspell:words Bokmål bokmal
 cspell:words Watheq Taha Zerrouki Ahmed ElTabarani
 cspell:words Nederlands
 cspell:words Kimi Heinonen
+cspell:words nlbuescher
 --->
